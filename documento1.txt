@@ -5,3 +5,5 @@ Esta es la segunda linea del documento
 Esta es la tercera linea del documento
 
 Y agrego una cuarta línea en el documento original
+
+ya voy a la quinta linea agregada
